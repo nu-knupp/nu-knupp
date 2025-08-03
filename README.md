@@ -102,11 +102,12 @@
 
 ### 📨 Let's Connect!
 
-* ✉️ E-mail: [EMAIL](mailto:EMAIL)
-* 💼 LinkedIn: [LINKEDIN](LINKEDIN)
-* 🧠 Medium (em breve)
-* 🌐 Portfólio (em breve)
+- ✉️ E-mail: [nubiaknupp@gmail.com](mailto:nubiaknupp@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/nubia-knupp](https://www.linkedin.com/in/nubia-knupp)
+- 🧠 Medium (em breve)
+- 🌐 Portfólio (em breve)
 
 ---
 
+> “Resilience fuels progress — evolve with purpose, build with precision.” —  Anonymous
 > “Simplicity is the soul of efficiency.” — Austin Freeman
