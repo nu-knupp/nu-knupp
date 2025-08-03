@@ -12,31 +12,33 @@
 
 ---
 
-<h3 id="english-version">🇬🇧 English Version</h3>
+<h3 id="english-version">### 👨‍💻 About Me</h3>
 
 * 💻 I'm a frontend developer focused on building scalable, maintainable, and high-performance user interfaces.
 * 🎨 JavaScript is my main language — currently deepening my knowledge of modern frameworks like React and performance optimization.
 * ⚛️ My main stack includes <strong>React</strong>, <strong>TypeScript</strong>, <strong>Vite</strong>, and <strong>styled-components</strong> — with a strong emphasis on clean architecture and reusable components.
 * 🧠 Constantly learning about frontend architecture, design systems, and micro-frontend strategies.
-* 🎨 I specialize in UI development using <strong>Ant Design</strong>, crafting custom themes, and enhancing design consistency through design systems.
+* 🧬 I specialize in UI development using <strong>Ant Design</strong>, crafting custom themes, and enhancing design consistency through design systems.
 * 🚀 Always exploring ways to improve <strong>performance</strong>, <strong>accessibility (a11y)</strong>, and <strong>user experience (UX)</strong>.
 * 🧪 Passionate about code quality — I use <strong>Vitest</strong> and <strong>Storybook</strong> to ensure reliability and great developer experience.
-* 🧬 I have experience leading frontend teams, mentoring developers, and promoting best practices in code and design.
+* 🧭 I have experience leading frontend teams, mentoring developers, and promoting best practices in code and design.
 * 🎓 Postgraduate student in Frontend Architecture & Development.
 * 🛠️ Always tinkering with UI/UX improvements, component libraries, and web performance.
 
 ---
 
-<h3 id="versão-em-português">🇧🇷 Versão em Português</h3>
+<h3 id="versão-em-português">### 👨‍💻 Sobre mim</h3>
 
-* 💻 Sou desenvolvedora frontend com foco na construção de interfaces escaláveis, de fácil manutenção e alto desempenho.
+* 💻 Sou desenvolvedora frontend com foco na criação de interfaces escaláveis, de fácil manutenção e alto desempenho.
+* 🎨 JavaScript é minha principal linguagem — atualmente estou aprofundando meus conhecimentos em frameworks modernos como React e otimização de performance.
 * ⚛️ Minha stack principal inclui <strong>React</strong>, <strong>TypeScript</strong>, <strong>Vite</strong> e <strong>styled-components</strong> — com forte ênfase em arquitetura limpa e componentes reutilizáveis.
-* 🎨 Especialista em desenvolvimento de UI com <strong>Ant Design</strong>, criando temas customizados e garantindo consistência visual com design systems.
-* 🧪 Apaixonada por qualidade de código — utilizo <strong>Vitest</strong> e <strong>Storybook</strong> para garantir confiabilidade e uma boa experiência para devs.
-* 📞 Experiência na integração de aplicações em tempo real e voz usando <strong>WebRTC</strong>, <strong>API do WhatsApp Business</strong> e <strong>Asterisk</strong>.
+* 🧠 Estou constantemente aprendendo sobre arquitetura frontend, design systems e estratégias de micro-frontends.
+* 🧬 Especialista em desenvolvimento de interfaces usando <strong>Ant Design</strong>, criando temas personalizados e promovendo consistência visual com design systems.
+* 🚀 Sempre buscando maneiras de melhorar a <strong>performance</strong>, <strong>acessibilidade (a11y)</strong> e a <strong>experiência do usuário (UX)</strong>.
+* 🧪 Apaixonada por qualidade de código — utilizo <strong>Vitest</strong> e <strong>Storybook</strong> para garantir confiabilidade e uma excelente experiência para desenvolvedores.
+* 🧭 Tenho experiência liderando equipes frontend, mentorando desenvolvedores e promovendo boas práticas de código e design.
 * 🎓 Pós-graduanda em Arquitetura e Desenvolvimento Frontend.
-* 🧬 Tenho experiência liderando times de frontend, mentorando devs e promovendo boas práticas de código e design.
-* 🚀 Sempre buscando aprimorar a <strong>performance</strong>, <strong>acessibilidade (a11y)</strong> e <strong>experiência do usuário (UX)</strong>.
+* 🛠️ Sempre explorando melhorias em UI/UX, bibliotecas de componentes e performance web.
 
 ---
 
