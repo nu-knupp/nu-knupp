@@ -1,14 +1,15 @@
-<!-- Profile README for nu-knupp -->
-
-## 🌐 Language | Idioma
-
-<a href="#english-version"><strong>🇬🇧 English</strong></a> | <a href="#versão-em-português"><strong>🇧🇷 Português</strong></a>
 
 <h1 align="center">Hi there! 👋 I'm Núbia Knupp</h1>
 
 <p align="center">
   <em>Frontend Developer</em>
 </p>
+
+---
+
+## 🌐 Language | Idioma
+
+<a href="#english-version"><strong>🇬🇧 English</strong></a> | <a href="#versão-em-português"><strong>🇧🇷 Português</strong></a>
 
 ---
 
