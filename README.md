@@ -111,4 +111,7 @@
 ---
 
 > “Resilience fuels progress — evolve with purpose, build with precision.” —  Anonymous
+
+---
+
 > “Simplicity is the soul of efficiency.” — Austin Freeman
