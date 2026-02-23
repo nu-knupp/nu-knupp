@@ -110,15 +110,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nu-knupp&show_icons=true&theme=dracula&hide_title=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu-knupp&layout=compact&theme=dracula&hide_title=true" alt="Top Langs" height="160" />
-</p>
-
----
-
 ### 📨 Let's Connect!
 
 - ✉️ E-mail: [nubiaknupp@gmail.com](mailto:nubiaknupp@gmail.com)
